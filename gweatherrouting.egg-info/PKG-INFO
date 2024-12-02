@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: gweatherrouting
+Version: 0.1.5
+Author: Davide Gessa
+Author-email: gessadavide@gmail.com
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: colorlog
+Requires-Dist: eccodes==1.6.1
+Requires-Dist: geojson_utils
+Requires-Dist: bs4
+Requires-Dist: vext@ git+https://github.com/vext-python/vext@32ad4d1c5f45797e244df1d2816f76b60f28e20e
+Requires-Dist: vext.gi
+Requires-Dist: pyserial
+Requires-Dist: pynmea2
+Requires-Dist: gpxpy
+Requires-Dist: numpy
+Requires-Dist: nmeatoolkit
+Requires-Dist: matplotlib
+Requires-Dist: weatherrouting
+Requires-Dist: GDAL==3.6.4
